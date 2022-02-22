@@ -1,20 +1,38 @@
-## :clipboard: Basic Info
-   #### :bulb: Project Name: [**Calculator App**](https://a7m3d000.github.io/H--Calculator-App/)
-   #### :bulb: Project Type: **Challenge** from **Front End Mentor** Website 
-   #### :bulb: Project Level: **Heigh** -> **[ H ]**
-   
-   #### :bulb: Challenge URL: [**Calculator App**](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29)
+# Calculator App
 
----
+Simple Calculator web app.
 
-## :clipboard: Basic Languages
- - [x] HTML
- - [x] CSS
- - [x] JavaScript
+-----
 
----
+# Discreption
+This is a [**Calculator**](https://calculator-six-rosy.vercel.app/) web app that you can use it to claculate simple calculations.
+     
+-----
 
-## :clipboard: Frameworks
- :pushpin: Frameworks
-   - [x] React
+# App Features
+  - Reponsive
+  - Nice Design with Bootstrap Framework
+  - Speed & Good Performance
+  - A lot of awesome Themes
 
+-----
+
+# Languages & Technologies
+### Lauages That used in this Web App:
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="drawing" width="48" height="48"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=ar"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="drawing" width="48" height="48"/></a>
+  <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png" width="48" height="48"/></a>
+</div>
+
+### Technolohies that used in this App:
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <a href="https://reactjs.org/"><img src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png" alt="drawing" width="48" height="48"/></a>
+</div>
+
+-----
+
+# Web App Screenshot
+![App Screenshot](https://github.com/ahmedmohmd/calculator/blob/main/app-screenshot.png?raw=true)
