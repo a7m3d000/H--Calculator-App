@@ -40,7 +40,7 @@ This is a [**Calculator**](https://calculator-six-rosy.vercel.app/) web app that
 # Web App Screenshot
 
 <div>
-  <div style="display: flex; justify-content: start; gap-2; align-items: center;">
+  <div style="display: flex !important; justify-content: start !important; gap: 2 !important; align-items: center !important;">
     <img src="https://github.com/ahmedmohmd/calculator-app/blob/main/screenshots/one.png?raw=true"/>
     <img src="https://github.com/ahmedmohmd/calculator-app/blob/main/screenshots/two.png?raw=true"/>
   </div>
