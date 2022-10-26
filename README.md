@@ -4,15 +4,15 @@ Simple Calculator web app.
 
 ---
 
-# Discreption
+# Description
 
-This is a [**Calculator**](https://calculator-six-rosy.vercel.app/) web app that you can use it to claculate simple calculations.
+This is a [**Calculator**](https://calculator-a.vercel.app/) web app that you can use it to calculate simple calculations.
 
 ---
 
 # App Features
 
-- Reponsive
+- Responsive
 - Nice Design with Bootstrap Framework
 - Speed & Good Performance
 - A lot of awesome Themes
@@ -21,7 +21,7 @@ This is a [**Calculator**](https://calculator-six-rosy.vercel.app/) web app that
 
 # Languages & Technologies
 
-### Lauages That used in this Web App:
+### Languages used in this Web App:
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="drawing" width="48" height="48"/></a>
@@ -33,6 +33,7 @@ This is a [**Calculator**](https://calculator-six-rosy.vercel.app/) web app that
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <a href="https://reactjs.org/"><img src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png" alt="drawing" width="48" height="48"/></a>
+    <a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48"/></a>
 </div>
 
 ---
@@ -46,5 +47,3 @@ This is a [**Calculator**](https://calculator-six-rosy.vercel.app/) web app that
   </div>
   <img src="https://github.com/ahmedmohmd/calculator-app/blob/main/screenshots/three.png?raw=true"/>
 </div>
-
-<!-- ![App Screenshot](https://github.com/ahmedmohmd/calculator/blob/main/app-screenshot.png?raw=true) -->
